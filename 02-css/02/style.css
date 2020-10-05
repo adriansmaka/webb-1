@@ -1,0 +1,7 @@
+span {
+    background-color: #52ea71;
+}
+
+span:last-child {
+    background-color: #df701a;
+}
