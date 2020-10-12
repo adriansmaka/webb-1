@@ -1,0 +1,7 @@
+mark {
+    background-color: #52ea71;
+}
+
+mark:last-child {
+    background-color: #df701a;
+}

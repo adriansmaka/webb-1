@@ -1,0 +1,9 @@
+.thick {
+    line-height: 30px;
+    width: 350px;
+}
+
+.thin {
+    line-height: 7px;
+    width:350px;
+}
