@@ -1,0 +1,18 @@
+p {
+    color: cornflowerblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
+
+.normal {
+    letter-spacing: normal;
+}
+
+.tight {
+    letter-spacing: -5px;
+}
+
+.separate {
+    letter-spacing: 5px;
+}
+
