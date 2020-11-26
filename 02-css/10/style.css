@@ -1,3 +1,7 @@
 p:first-of-type{
     font-weight: bold;
 }
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
