@@ -1,0 +1,4 @@
+1. display: grid;
+2. De två första kolumnerna kommer att vara 150px bredd, den sista kommer att anpassa sig till platsen som kan vara kvar.
+3. Den första raden kommer att vara 100px hög och den andra kommer att anpassa sin höjd automatiskt
+4. Grid gap är den platsen som fins emellan objekter.

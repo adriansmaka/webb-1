@@ -1,0 +1,15 @@
+/*----------- EX 1 ----------*/
+
+.ex1 {
+    display: grid;
+    grid-template-columns: 100px 100px;
+    grid-template-rows:100px 100px ;
+    grid-gap: 10px;
+}
+
+/*----------- EX 2 ----------*/
+.ex2 {
+    display: grid;
+    grid-template-columns: auto auto ;
+    grid-template-rows:  50px 100px 50px;
+}

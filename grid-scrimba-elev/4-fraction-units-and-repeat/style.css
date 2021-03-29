@@ -1,0 +1,20 @@
+/*----------- EX 1 ----------*/
+.ex1 {
+    display: grid;
+    grid-template: repeat(2, 1fr) / repeat(2, 1fr);
+    grid-gap: 10px;
+
+}
+
+/*----------- EX 2 ----------*/
+.ex2 {
+    display: grid;
+    grid-template: repeat(2, 1fr) / repeat(3, 1fr);
+    grid-gap: 10px;
+}
+
+/*----------- EX 3 ----------*/
+.ex3 {
+    display: grid;
+    grid-template-columns: repeat(2, 2fr 1fr);
+}

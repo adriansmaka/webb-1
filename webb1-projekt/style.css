@@ -1,7 +1,7 @@
 .flex-header-container {
 background: aqua;
 font-size: 50px;
-padding-left: 20x;
+padding-left: 20px;
 display: flex;
 flex-direction: row;
 }

@@ -1,0 +1,4 @@
+1. (fr) innebär att ett elementer i ett container delar sig i  delar likadana i storlek.
+2. Elementer i containern delar sig i ett del 5 gånger, dvs. i 5 likadana delar.
+3. Första elementen ska vara 1fr stort, den andra ska vara 2fr stort, dvs 2 ggr större än den första. Detta kommer att hända 2ggr.
+4. Det kommer att finnas två kolumner med bredden 100px och 1fr respektivt och två rader med höjd 1fr på båda.
